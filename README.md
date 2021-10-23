@@ -21,7 +21,5 @@ Cristian_Mancilla:
             - Low leve:
                 -Llvm 
                 -Wasm
-                -Assembly
-
-        
+                -Assembly     
 ```    
