@@ -13,7 +13,7 @@ Cristian_Mancilla:
             - Lenguaje Latino
             - HFT 
         Hobbies:
-            - Computational Code:
+            - Math Code:
                 -Matlab/Octave
                 -Wolfram 
             - Low leve:
@@ -21,4 +21,5 @@ Cristian_Mancilla:
                 -Wasm
                 -Assembly
 
-```
+        Certificaded
+```    
