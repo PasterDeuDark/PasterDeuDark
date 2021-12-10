@@ -11,10 +11,10 @@ Cristian_Mancilla:
             Tools:
                 - Makefile
                 - Docker
-            - Math Code:
+            Math Code:
                 -Matlab/Octave
                 -Wolfram 
-            - Low leve:
+            Low leve:
                 -Llvm 
                 -Wasm
                 -Assembly     
