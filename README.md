@@ -11,10 +11,6 @@ Cristian_Mancilla:
             Tools:
                 - Makefile
                 - Docker
-        Projects: 
-            - Lenguaje Latino
-            - HFT 
-        Hobbies:
             - Math Code:
                 -Matlab/Octave
                 -Wolfram 
