@@ -4,7 +4,6 @@ Cristian_Mancilla:
 
         Code: 
             - go
-            - rust
             - julia
             Dev:
                 -Backend
