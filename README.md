@@ -3,8 +3,8 @@
 Cristian_Mancilla:
 
         Code: 
-            - go
-            - julia
+            - Go
+            - Elixir
             Dev:
                 -Backend
             Tools:
