@@ -5,7 +5,7 @@ Cristian_Mancilla:
         Code: 
             - Go
             - Elixir
-           
+           - Python
             Dev:
                 -Backend
             Tools:
